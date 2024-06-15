@@ -1,0 +1,15 @@
+{
+  "name": "excercise-39",
+  "version": "1.0.0",
+  "description": "Excercie 39 of 45 Assgnments.",
+  "main": "Index.Ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Atif Ullah Khan\"",
+  "license": "ISC",
+  "dependencies": {
+    "install": "^0.13.0"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "excercise-19",
+  "version": "1.0.0",
+  "description": "Excercise #19 of 45 Assignments.",
+  "main": "Index.Ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Atif Ullah Khan",
+  "license": "ISC",
+  "dependencies": {
+    "install": "^0.13.0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "excercise-33",
+  "version": "1.0.0",
+  "description": "Excercise #33 of 45 Assignments.",
+  "main": "index.Ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Atif Ullah Khan\"",
+  "license": "ISC",
+  "dependencies": {
+    "install": "^0.13.0"
+  }
+}
